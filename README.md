@@ -3,7 +3,7 @@ This is a speed code challenge I did. Goal: Create a .txt file editor in under 4
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
